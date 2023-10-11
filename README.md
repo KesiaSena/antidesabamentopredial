@@ -6,5 +6,5 @@ Projeto da disciplina PWD
  - JS
 # Colaboradores
 - Anezia
-- Késia
+- Kesia
 - Raphael
