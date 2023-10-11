@@ -5,6 +5,6 @@ Projeto da disciplina PWD
  - CSS
  - JS
 # Colaboradores
-- Kesia
 - Anezia
+- Késia
 - Raphael
