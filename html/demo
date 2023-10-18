@@ -1,1 +1,39 @@
-Demonstração
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vivendo com Segurança</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div class="container">
+        <nav>
+            <ul>
+                <li>
+                    <a href="sobreosite.html">Sobre o site</a>
+                       </li>
+                        <li>
+                           <a href="cadastro.html">Cadastro</a>
+                        </li>
+                        <li>
+                           <a href="contato.html">Contato</a>
+                </li>
+            </ul>
+        </nav>
+    
+        <header>
+            <div class="center">
+                <img src="imag.jpg"
+            </div>
+            <h1>Anti Desabamento Predial</h1>
+            <h2> O nosso objetivo é fornecer informações precisas e atualizadas sobre os desabamentos de prédios, com o intuito de aumentar a conscientização pública, promover a segurança nas construções, garantir a segurança dos moradores nos prédios e contribuir para a prevenção de futuros desastres. Por meio de estudos de caso, vídeos explicativos e recursos interativos, queremos educar os visitantes sobre as principais causas de desabamentos, tecnologias de construção      seguras, procedimentos de inspeção e manutenção predial através do cadastro do nosso site, nele é possível ver os locais e áreas com mais risco, além de destacar histórias inspiradoras de recuperação após desastres. Ademais, pretendemos criar uma comunidade engajada e solidária, oferecendo um espaço para compartilhar experiências, esclarecer dúvidas, discutir soluções inovadoras e incentivar a colaboração entre profissionais da construção civil, engenheiros, arquitetos e o público em geral. Ao reunir conhecimento especializado e experiências pessoais, aspiramos a fazer a diferença, transformando nosso site em um recurso confiável, abrangente e seguro para todos aqueles interessados em entender, prevenir e lidar com os desabamentos de prédios.
+                  </h2>
+        </header>
+    
+
+    </div>
+
+</body>
+</html>
